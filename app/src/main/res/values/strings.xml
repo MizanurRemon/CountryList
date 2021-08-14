@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string-array name="country_name">
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Afganistan</item>
+        <item>Turkey</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>China</item>
+    </string-array>
+</resources>
